@@ -39,5 +39,14 @@ Hello
 Hello
 => nil
 
+#Interpolation
+
+name = "Odin"
+
+puts "Hello, #{name}" #=> "Hello, Odin"
+puts 'Hello, #{name}' #=> "Hello, #{name}"
+
+#Common String Methods
+#capitalize
 
 
